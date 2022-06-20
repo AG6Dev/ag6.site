@@ -13,8 +13,7 @@ export default function About() {
             <div className="about-info">
                 <h1>Hello!</h1>
 
-                <span className="about-info-intro">I am a 16 year old
-                <Typewriter options={{
+                <span className="about-info-intro">I am a 16 year old ‎ <Typewriter options={{
                     strings: [" Java Developer",
                         " Python Developer",
                         " Minecraft Modder"],
