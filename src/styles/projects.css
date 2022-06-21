@@ -1,0 +1,19 @@
+.projects {
+    text-align: center;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.projects-title {
+    font-size: 2.5em;
+    font-weight: 500;
+}
+
+.projects-div {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-wrap: normal;
+}
