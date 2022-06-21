@@ -7,7 +7,7 @@ import "../styles/navbar.css"
 export default function Navbar() {
     return (
         <nav>
-            <img src={icon} className="navbar--icon" alt="AG6Dev"/>
+            <img src={icon} className="navbar--icon" alt="AG6Dev Logo"/>
             <h1 className="nav-title">AG6Dev</h1>
             <h2 className="nav-about">About</h2>
             <h2 className="nav-projects">Projects</h2>
